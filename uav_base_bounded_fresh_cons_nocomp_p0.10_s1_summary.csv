@@ -1,0 +1,2 @@
+messages,attacks,accuracy,precision,recall,mean_latency_ms,std_latency_ms,max_latency_ms,urlcc_violations,false_rejects_freshness,seed,attack_rate
+250,27,0.108,0.108,1.0,1.4895,0.2004,1.9104,0,0,1,0.1
